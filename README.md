@@ -2,6 +2,10 @@
 HackerRank Solutions
 
 ### Submodules
-- [x] Java
-- [x] Python
 - [x] Bash
+- [ ] C/C++
+- [ ] Go
+- [x] Java
+- [ ] JavaScript
+- [x] Python
+
