@@ -2,6 +2,6 @@
 HackerRank Solutions
 
 ### Submodules
-- [ ] Java
-- [ ] Python
-- [ ] Bash
+- [x] Java
+- [x] Python
+- [x] Bash
