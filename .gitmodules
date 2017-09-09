@@ -1,0 +1,9 @@
+[submodule "HackerRank-Java"]
+	path = HackerRank-Java
+	url = https://github.com/clarketm/HackerRank-Java.git
+[submodule "HackerRank-Bash"]
+	path = HackerRank-Bash
+	url = https://github.com/clarketm/HackerRank-Bash.git
+[submodule "HackerRank-Python"]
+	path = HackerRank-Python
+	url = https://github.com/clarketm/HackerRank-Python.git
