@@ -7,3 +7,6 @@
 [submodule "HackerRank-Python"]
 	path = HackerRank-Python
 	url = https://github.com/clarketm/HackerRank-Python.git
+[submodule "HackerRank-C"]
+	path = HackerRank-C
+	url = https://github.com/clarketm/HackerRank-C.git
