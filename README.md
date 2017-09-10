@@ -3,7 +3,7 @@ HackerRank Solutions
 
 ### Submodules
 - [x] Bash
-- [ ] C/C++
+- [x] C/C++
 - [ ] Go
 - [x] Java
 - [ ] JavaScript
