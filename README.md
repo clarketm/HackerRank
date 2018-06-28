@@ -6,6 +6,6 @@ HackerRank Solutions
 - [x] C/C++
 - [ ] Go
 - [x] Java
-- [ ] JavaScript
+- [x] JavaScript
 - [x] Python
 
