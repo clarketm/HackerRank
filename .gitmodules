@@ -10,3 +10,6 @@
 [submodule "HackerRank-C"]
 	path = HackerRank-C
 	url = https://github.com/clarketm/HackerRank-C.git
+[submodule "HackerRank-JavaScript"]
+	path = HackerRank-JavaScript
+	url = https://github.com/clarketm/HackerRank-JavaScript.git
