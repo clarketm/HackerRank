@@ -13,3 +13,6 @@
 [submodule "HackerRank-JavaScript"]
 	path = HackerRank-JavaScript
 	url = https://github.com/clarketm/HackerRank-JavaScript.git
+[submodule "HackerRank-SQL"]
+	path = HackerRank-SQL
+	url = https://github.com/clarketm/HackerRank-SQL.git
