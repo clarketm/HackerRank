@@ -8,4 +8,5 @@ HackerRank Solutions
 - [x] Java
 - [x] JavaScript
 - [x] Python
+- [x] SQL
 
